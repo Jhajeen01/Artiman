@@ -1,3 +1,3 @@
 # first file
 
-thus I'm new here.
+thus I'm new here!
